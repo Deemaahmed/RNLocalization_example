@@ -1,0 +1,11 @@
+{
+    "Page1": {
+        "title":"First Page",
+        "changeLangButton":"Change to Arabic",
+        "goToPage2":"Go to page2"
+    },
+
+    "Page2":{
+        "title":"Second Page"
+    }
+}
